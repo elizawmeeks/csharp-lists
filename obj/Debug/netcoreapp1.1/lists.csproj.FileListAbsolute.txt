@@ -1,0 +1,8 @@
+/Users/theartstudio/workspace/csharp/exercises/lists/bin/Debug/netcoreapp1.1/lists.deps.json
+/Users/theartstudio/workspace/csharp/exercises/lists/bin/Debug/netcoreapp1.1/lists.runtimeconfig.json
+/Users/theartstudio/workspace/csharp/exercises/lists/bin/Debug/netcoreapp1.1/lists.runtimeconfig.dev.json
+/Users/theartstudio/workspace/csharp/exercises/lists/obj/Debug/netcoreapp1.1/lists.AssemblyInfo.cs
+/Users/theartstudio/workspace/csharp/exercises/lists/bin/Debug/netcoreapp1.1/lists.dll
+/Users/theartstudio/workspace/csharp/exercises/lists/bin/Debug/netcoreapp1.1/lists.pdb
+/Users/theartstudio/workspace/csharp/exercises/lists/obj/Debug/netcoreapp1.1/lists.dll
+/Users/theartstudio/workspace/csharp/exercises/lists/obj/Debug/netcoreapp1.1/lists.pdb
