@@ -1,7 +1,8 @@
 # csharp-lists
+
 NSS exercise.
 
-##Exercise
+## Exercise
 
 In the Main method, place the following code
 
